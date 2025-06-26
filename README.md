@@ -24,7 +24,7 @@
 
 ![Kusalya's GitHub stats](https://github-readme-stats.vercel.app/api?username=kusalyaW&show_icons=true&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=kusalyaW&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=KusalyaW&theme=radical)
 
 ### 🏆 GitHub Trophies
 

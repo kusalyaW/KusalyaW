@@ -24,8 +24,6 @@
 
 ![Kusalya's GitHub stats](https://github-readme-stats.vercel.app/api?username=kusalyaW&show_icons=true&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=kusalyaW&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kusalyaW&layout=compact&theme=radical)
 
 ---
@@ -38,14 +36,23 @@
 
 ### 📂 Featured Projects
 
-- 🔐 [Stripe Payment Gateway with MERN](https://github.com/kusalya/stripe-mern-payments)  
+- 🔐 [Stripe Payment Gateway with MERN]  
   Secure Stripe integration with MERN stack and JWT authentication.
-
-- 🚗 [Urban Mobility Analytics Lab](https://github.com/kusalya/urban-mobility-lab)  
-  Transport research project analyzing traffic patterns using MATLAB and Python.
+  💬 [Notifications & Payments Module – Food App] 
+  Modular backend handling Stripe payments and order updates via WhatsApp (Twilio), emails (Nodemailer + Ethereal), and SMS alerts.
 
 - 🍽️ [Restaurant Ordering System (Microservices)](https://github.com/kusalya/microservices-food-app)  
-  Full-stack food delivery app with microservices architecture and Docker.
+  Full-stack food delivery app with microservices architecture and Docker.(payment and notification parts)
+
+  🌍 Countries Info App – RESTful Backend
+REST API service providing detailed country data including population, region, currency, and language.
+https://af-project-countries-app-1.onrender.com/
+
+💰 Financial Planner App
+Personal finance tracker with budgeting, expense management, and notification using MongoDB and Express.js.
+
+🚘 Automotive Tracking System
+Vehicle tracking and routing system using Google Maps Geolocation API and real-time coordinates.
 
 ---
 

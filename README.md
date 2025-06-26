@@ -22,7 +22,7 @@
 
 ### 🔥 GitHub Stats
 
-![Kusalya's GitHub stats](https://github-readme-stats.vercel.app/api?username=kusalya&show_icons=true&theme=radical)
+![Kusalya's GitHub stats](https://github-readme-stats.vercel.app/api?username=kusalyaW&show_icons=true&theme=radical)
 
 ---
 

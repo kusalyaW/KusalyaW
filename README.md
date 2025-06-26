@@ -38,7 +38,7 @@
 
 - 🔐 [Stripe Payment Gateway with MERN]  
   Secure Stripe integration with MERN stack and JWT authentication.
-  💬 [Notifications & Payments Module – Food App] 
+- 💬 [Notifications & Payments Module – Food App] 
   Modular backend handling Stripe payments and order updates via WhatsApp (Twilio), emails (Nodemailer + Ethereal), and SMS alerts.
 
 - 🍽️ [Restaurant Ordering System (Microservices)](https://github.com/kusalya/microservices-food-app)  

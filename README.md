@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm Kusalya
 
-🚀 I’m a software developer & transport researcher passionate about smart cities, full-stack apps, and mobility analytics.
+🚀 I’m a software developer passionate about full-stack apps.
 
 - 🔭 I’m currently working on MERN and Microservices projects  
 - 🌱 Learning more about Spring Boot & Cloud deployments  

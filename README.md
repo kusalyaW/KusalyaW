@@ -42,7 +42,7 @@
 - 💬 [Notifications & Payments Module – Food App] 
   Modular backend handling Stripe payments and order updates via WhatsApp (Twilio), emails (Nodemailer + Ethereal), and SMS alerts.
 
-- 🍽️ [Restaurant Ordering System (Microservices)]([https://github.com/kusalya/microservices-food-app](https://github.com/SLIIT-Y3S1-DS-Project/food_ordering_and_delivery_system))  
+- 🍽️ [Restaurant Ordering System (Microservices)][https://github.com/kusalya/microservices-food-app](https://github.com/SLIIT-Y3S1-DS-Project/food_ordering_and_delivery_system) 
   Full-stack food delivery app with microservices architecture and Docker.(payment and notification parts)
 
   🌍 Countries Info App – RESTful Backend

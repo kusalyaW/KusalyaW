@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on MERN and Microservices projects  
 - 🌱 Learning more about Spring Boot & Cloud deployments  
-- 🎓 Studied Software Engineering at SLIIT  
+- 🎓 Studying Software Engineering at SLIIT as a third year undergraduate student
 - 💬 Ask me about JavaScript, Node.js, React, MongoDB
 
 ---

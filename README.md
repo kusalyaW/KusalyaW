@@ -60,7 +60,7 @@ tracking bin and waste details through bins using stimulate data.
 https://github.com/Project-Group-3rd-Year-2nd-Semester/Smart-Waste-Management-System
 
 tax transparency application
-https://github.com/TaxTrall-Team/Tax-Trail-Application
+[https://github.com/TaxTrall-Team/Tax-Trail-Application](https://github.com/TaxTrail-Team/Tax-Trail-Application)
 ---
 
 ### 📫 Connect with Me

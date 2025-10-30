@@ -16,7 +16,7 @@
 - **Backend**: Node.js, Express.js, Spring Boot  
 - **Database**: MongoDB, MySQL  
 - **DevOps**: Docker, GitHub Actions  
-- **Tools**: VS Code, Postman, Swagger
+- **Tools**: VS Code, Postman
 
 ---
 
@@ -41,7 +41,7 @@
 - 💬 [Notifications & Payments Module – Food App] 
   Modular backend handling Stripe payments and order updates via WhatsApp (Twilio), emails (Nodemailer + Ethereal), and SMS alerts.
 
-- 🍽️ [Restaurant Ordering System (Microservices)](https://github.com/kusalya/microservices-food-app)  
+- 🍽️ [Restaurant Ordering System (Microservices)]([https://github.com/kusalya/microservices-food-app](https://github.com/SLIIT-Y3S1-DS-Project/food_ordering_and_delivery_system))  
   Full-stack food delivery app with microservices architecture and Docker.(payment and notification parts)
 
   🌍 Countries Info App – RESTful Backend
@@ -54,6 +54,12 @@ Personal finance tracker with budgeting, expense management, and notification us
 🚘 Automotive Tracking System
 Vehicle tracking and routing system using Google Maps Geolocation API and real-time coordinates.
 
+Waste management System
+tracking bin and waste details through bins using stimulate data.
+https://github.com/Project-Group-3rd-Year-2nd-Semester/Smart-Waste-Management-System
+
+tax transparency application
+https://github.com/TaxTrall-Team/Tax-Trail-Application
 ---
 
 ### 📫 Connect with Me

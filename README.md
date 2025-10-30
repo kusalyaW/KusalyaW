@@ -12,11 +12,12 @@
 ### 🛠️ My Tech Stack
 
 - **Languages**: JavaScript, Java, Python, SQL  
-- **Frontend**: React.js, Vite, Redux, Tailwind CSS  
+- **Frontend**: React.js,React Native, Vite, Redux, Tailwind CSS  
 - **Backend**: Node.js, Express.js, Spring Boot  
 - **Database**: MongoDB, MySQL  
 - **DevOps**: Docker, GitHub Actions  
 - **Tools**: VS Code, Postman
+- LLM - langchain
 
 ---
 
